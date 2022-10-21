@@ -117,6 +117,9 @@
 - [Luis Almeida](https://www.linkedin.com/in/luis-mca/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Backus88)
 
 
+- [Mary Youko Karakida](https://www.linkedin.com/in/mary-youko-karakida-6b0aa123a/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/marykarakida)
+
+
 - [Matheus Amorim Garcia Santos](https://www.linkedin.com/in/matheus-amorim-gs/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/mtsgamorim)
 
 
